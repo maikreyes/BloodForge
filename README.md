@@ -11,7 +11,7 @@
 - **Combate Dinámico**: Cada jugador tiene acceso a una variedad de habilidades y ataques especiales, permitiendo una jugabilidad estratégica y llena de acción.
 - **Arenas Variadas**: Enfréntate en diferentes arenas con obstáculos y entornos interactivos que alteran el flujo de la batalla.
 - **Modos de Juego**: El juego ofrece varios modos de juego, como el modo de eliminación, captura de bandera y otros desafíos para mantener la jugabilidad fresca y emocionante.
-- **Estilo Visual Impactante**: Gráficos 2D detallados con un enfoque en personajes y escenarios vibrantes que refuerzan la atmósfera única de **BloodForge**.
+- **Estilo Visual Impactante**: Gráficos 3D detallados con un enfoque en personajes y escenarios vibrantes que refuerzan la atmósfera única de **BloodForge**.
 - **Personajes Únicos**: Cada personaje tiene habilidades y estilos de combate únicos, lo que permite diferentes estrategias durante las batallas.
 
 ## Instalación
@@ -61,9 +61,8 @@ Las contribuciones son bienvenidas. Si tienes ideas para mejorar el juego, abre 
 
 ## Créditos
 
-- **Desarrollador**: [Tu Nombre]
-- **Música**: [Enlace o nombre del autor si aplica]
-- **Arte**: [Enlace o nombre del autor si aplica]
+- **Desarrollador**: Michael Estiven Reyes Escobar 
+- **Arte**: Juan Sebastian rijas Gallego   |   Juan Esteban Castillo Valderrama   |   Carlos Alfonso Rivera   |   https://itch.io/profile/kaylousberg
 
 ## Licencia
 
