@@ -62,7 +62,7 @@ Las contribuciones son bienvenidas. Si tienes ideas para mejorar el juego, abre 
 ## Créditos
 
 - **Desarrollador**: Michael Estiven Reyes Escobar 
-- **Arte**: Juan Sebastian rijas Gallego   |   Juan Esteban Castillo Valderrama   |   Carlos Alfonso Rivera   |   https://itch.io/profile/kaylousberg
+- **Arte**: Juan Sebastian rijas Gallego   |   Juan Esteban Castillo Valderrama   |   Carlos Alfonso Rivera   |   [Kay Lousberg](https://itch.io/profile/kaylousberg)
 
 ## Licencia
 
