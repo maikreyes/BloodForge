@@ -21,7 +21,7 @@ Para jugar **BloodForge**, sigue estos pasos:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/bloodforge.git
-
+   ```
 
 1. Navega a la carpeta del proyecto:
     
